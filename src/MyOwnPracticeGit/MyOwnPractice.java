@@ -7,4 +7,7 @@ public class MyOwnPractice {
 
 	}
 
+	public void practice() {
+		System.out.println("this is for repository");
+	}
 }
